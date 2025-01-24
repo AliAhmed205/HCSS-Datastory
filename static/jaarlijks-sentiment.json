@@ -1,0 +1,543 @@
+{
+    "data": [
+        {
+            "Jaar": 1946,
+            "Totaal": 432,
+            "Positief": 82,
+            "Negatief": 77,
+            "Neutraal": 273
+        },
+        {
+            "Jaar": 1947,
+            "Totaal": 609,
+            "Positief": 75,
+            "Negatief": 205,
+            "Neutraal": 329
+        },
+        {
+            "Jaar": 1948,
+            "Totaal": 899,
+            "Positief": 139,
+            "Negatief": 159,
+            "Neutraal": 601
+        },
+        {
+            "Jaar": 1949,
+            "Totaal": 762,
+            "Positief": 85,
+            "Negatief": 131,
+            "Neutraal": 546
+        },
+        {
+            "Jaar": 1950,
+            "Totaal": 577,
+            "Positief": 85,
+            "Negatief": 150,
+            "Neutraal": 342
+        },
+        {
+            "Jaar": 1951,
+            "Totaal": 920,
+            "Positief": 147,
+            "Negatief": 226,
+            "Neutraal": 547
+        },
+        {
+            "Jaar": 1952,
+            "Totaal": 930,
+            "Positief": 131,
+            "Negatief": 230,
+            "Neutraal": 569
+        },
+        {
+            "Jaar": 1953,
+            "Totaal": 966,
+            "Positief": 144,
+            "Negatief": 209,
+            "Neutraal": 613
+        },
+        {
+            "Jaar": 1954,
+            "Totaal": 1187,
+            "Positief": 254,
+            "Negatief": 276,
+            "Neutraal": 657
+        },
+        {
+            "Jaar": 1955,
+            "Totaal": 963,
+            "Positief": 277,
+            "Negatief": 138,
+            "Neutraal": 548
+        },
+        {
+            "Jaar": 1956,
+            "Totaal": 2398,
+            "Positief": 330,
+            "Negatief": 740,
+            "Neutraal": 1328
+        },
+        {
+            "Jaar": 1957,
+            "Totaal": 1850,
+            "Positief": 384,
+            "Negatief": 519,
+            "Neutraal": 947
+        },
+        {
+            "Jaar": 1958,
+            "Totaal": 2347,
+            "Positief": 362,
+            "Negatief": 563,
+            "Neutraal": 1422
+        },
+        {
+            "Jaar": 1959,
+            "Totaal": 2302,
+            "Positief": 534,
+            "Negatief": 447,
+            "Neutraal": 1321
+        },
+        {
+            "Jaar": 1960,
+            "Totaal": 3078,
+            "Positief": 488,
+            "Negatief": 820,
+            "Neutraal": 1770
+        },
+        {
+            "Jaar": 1961,
+            "Totaal": 3227,
+            "Positief": 393,
+            "Negatief": 1016,
+            "Neutraal": 1818
+        },
+        {
+            "Jaar": 1962,
+            "Totaal": 3090,
+            "Positief": 810,
+            "Negatief": 800,
+            "Neutraal": 1480
+        },
+        {
+            "Jaar": 1963,
+            "Totaal": 2936,
+            "Positief": 632,
+            "Negatief": 668,
+            "Neutraal": 1636
+        },
+        {
+            "Jaar": 1964,
+            "Totaal": 2702,
+            "Positief": 548,
+            "Negatief": 787,
+            "Neutraal": 1367
+        },
+        {
+            "Jaar": 1965,
+            "Totaal": 2843,
+            "Positief": 624,
+            "Negatief": 775,
+            "Neutraal": 1444
+        },
+        {
+            "Jaar": 1966,
+            "Totaal": 3013,
+            "Positief": 704,
+            "Negatief": 820,
+            "Neutraal": 1489
+        },
+        {
+            "Jaar": 1967,
+            "Totaal": 2932,
+            "Positief": 378,
+            "Negatief": 1067,
+            "Neutraal": 1487
+        },
+        {
+            "Jaar": 1968,
+            "Totaal": 3268,
+            "Positief": 588,
+            "Negatief": 1208,
+            "Neutraal": 1472
+        },
+        {
+            "Jaar": 1969,
+            "Totaal": 3220,
+            "Positief": 365,
+            "Negatief": 1055,
+            "Neutraal": 1800
+        },
+        {
+            "Jaar": 1970,
+            "Totaal": 1851,
+            "Positief": 368,
+            "Negatief": 587,
+            "Neutraal": 896
+        },
+        {
+            "Jaar": 1971,
+            "Totaal": 4020,
+            "Positief": 952,
+            "Negatief": 1138,
+            "Neutraal": 1930
+        },
+        {
+            "Jaar": 1972,
+            "Totaal": 3620,
+            "Positief": 882,
+            "Negatief": 1009,
+            "Neutraal": 1729
+        },
+        {
+            "Jaar": 1973,
+            "Totaal": 3589,
+            "Positief": 884,
+            "Negatief": 1008,
+            "Neutraal": 1697
+        },
+        {
+            "Jaar": 1974,
+            "Totaal": 4159,
+            "Positief": 1332,
+            "Negatief": 952,
+            "Neutraal": 1875
+        },
+        {
+            "Jaar": 1975,
+            "Totaal": 3341,
+            "Positief": 932,
+            "Negatief": 764,
+            "Neutraal": 1645
+        },
+        {
+            "Jaar": 1976,
+            "Totaal": 3962,
+            "Positief": 942,
+            "Negatief": 1132,
+            "Neutraal": 1888
+        },
+        {
+            "Jaar": 1977,
+            "Totaal": 4236,
+            "Positief": 924,
+            "Negatief": 1202,
+            "Neutraal": 2110
+        },
+        {
+            "Jaar": 1978,
+            "Totaal": 4103,
+            "Positief": 1062,
+            "Negatief": 1049,
+            "Neutraal": 1992
+        },
+        {
+            "Jaar": 1979,
+            "Totaal": 4577,
+            "Positief": 1109,
+            "Negatief": 1350,
+            "Neutraal": 2118
+        },
+        {
+            "Jaar": 1980,
+            "Totaal": 5495,
+            "Positief": 1210,
+            "Negatief": 1806,
+            "Neutraal": 2479
+        },
+        {
+            "Jaar": 1981,
+            "Totaal": 5548,
+            "Positief": 1091,
+            "Negatief": 1977,
+            "Neutraal": 2480
+        },
+        {
+            "Jaar": 1982,
+            "Totaal": 5570,
+            "Positief": 561,
+            "Negatief": 1836,
+            "Neutraal": 3173
+        },
+        {
+            "Jaar": 1983,
+            "Totaal": 5514,
+            "Positief": 981,
+            "Negatief": 2045,
+            "Neutraal": 2488
+        },
+        {
+            "Jaar": 1984,
+            "Totaal": 5222,
+            "Positief": 1107,
+            "Negatief": 1703,
+            "Neutraal": 2412
+        },
+        {
+            "Jaar": 1985,
+            "Totaal": 4352,
+            "Positief": 922,
+            "Negatief": 1495,
+            "Neutraal": 1935
+        },
+        {
+            "Jaar": 1986,
+            "Totaal": 4551,
+            "Positief": 919,
+            "Negatief": 1575,
+            "Neutraal": 2057
+        },
+        {
+            "Jaar": 1987,
+            "Totaal": 4438,
+            "Positief": 1092,
+            "Negatief": 1334,
+            "Neutraal": 2012
+        },
+        {
+            "Jaar": 1988,
+            "Totaal": 4597,
+            "Positief": 1593,
+            "Negatief": 902,
+            "Neutraal": 2102
+        },
+        {
+            "Jaar": 1989,
+            "Totaal": 4747,
+            "Positief": 1542,
+            "Negatief": 922,
+            "Neutraal": 2283
+        },
+        {
+            "Jaar": 1990,
+            "Totaal": 4569,
+            "Positief": 1606,
+            "Negatief": 976,
+            "Neutraal": 1987
+        },
+        {
+            "Jaar": 1991,
+            "Totaal": 4443,
+            "Positief": 2019,
+            "Negatief": 592,
+            "Neutraal": 1832
+        },
+        {
+            "Jaar": 1992,
+            "Totaal": 4476,
+            "Positief": 1301,
+            "Negatief": 798,
+            "Neutraal": 2377
+        },
+        {
+            "Jaar": 1993,
+            "Totaal": 5080,
+            "Positief": 1535,
+            "Negatief": 769,
+            "Neutraal": 2776
+        },
+        {
+            "Jaar": 1994,
+            "Totaal": 5243,
+            "Positief": 1396,
+            "Negatief": 940,
+            "Neutraal": 2907
+        },
+        {
+            "Jaar": 1995,
+            "Totaal": 4268,
+            "Positief": 1177,
+            "Negatief": 674,
+            "Neutraal": 2417
+        },
+        {
+            "Jaar": 1996,
+            "Totaal": 4338,
+            "Positief": 1147,
+            "Negatief": 602,
+            "Neutraal": 2589
+        },
+        {
+            "Jaar": 1997,
+            "Totaal": 3759,
+            "Positief": 1004,
+            "Negatief": 553,
+            "Neutraal": 2202
+        },
+        {
+            "Jaar": 1998,
+            "Totaal": 4063,
+            "Positief": 790,
+            "Negatief": 888,
+            "Neutraal": 2385
+        },
+        {
+            "Jaar": 1999,
+            "Totaal": 4295,
+            "Positief": 1160,
+            "Negatief": 768,
+            "Neutraal": 2367
+        },
+        {
+            "Jaar": 2000,
+            "Totaal": 3240,
+            "Positief": 795,
+            "Negatief": 445,
+            "Neutraal": 2000
+        },
+        {
+            "Jaar": 2001,
+            "Totaal": 3027,
+            "Positief": 687,
+            "Negatief": 509,
+            "Neutraal": 1831
+        },
+        {
+            "Jaar": 2002,
+            "Totaal": 3381,
+            "Positief": 924,
+            "Negatief": 516,
+            "Neutraal": 1941
+        },
+        {
+            "Jaar": 2003,
+            "Totaal": 3427,
+            "Positief": 781,
+            "Negatief": 688,
+            "Neutraal": 1958
+        },
+        {
+            "Jaar": 2004,
+            "Totaal": 3662,
+            "Positief": 755,
+            "Negatief": 753,
+            "Neutraal": 2154
+        },
+        {
+            "Jaar": 2005,
+            "Totaal": 2698,
+            "Positief": 736,
+            "Negatief": 346,
+            "Neutraal": 1616
+        },
+        {
+            "Jaar": 2006,
+            "Totaal": 3341,
+            "Positief": 826,
+            "Negatief": 588,
+            "Neutraal": 1927
+        },
+        {
+            "Jaar": 2007,
+            "Totaal": 3328,
+            "Positief": 741,
+            "Negatief": 509,
+            "Neutraal": 2078
+        },
+        {
+            "Jaar": 2008,
+            "Totaal": 3186,
+            "Positief": 817,
+            "Negatief": 468,
+            "Neutraal": 1901
+        },
+        {
+            "Jaar": 2009,
+            "Totaal": 3210,
+            "Positief": 776,
+            "Negatief": 484,
+            "Neutraal": 1950
+        },
+        {
+            "Jaar": 2010,
+            "Totaal": 3418,
+            "Positief": 901,
+            "Negatief": 481,
+            "Neutraal": 2036
+        },
+        {
+            "Jaar": 2011,
+            "Totaal": 3903,
+            "Positief": 1030,
+            "Negatief": 573,
+            "Neutraal": 2300
+        },
+        {
+            "Jaar": 2012,
+            "Totaal": 3846,
+            "Positief": 1091,
+            "Negatief": 683,
+            "Neutraal": 2072
+        },
+        {
+            "Jaar": 2013,
+            "Totaal": 3901,
+            "Positief": 892,
+            "Negatief": 743,
+            "Neutraal": 2266
+        },
+        {
+            "Jaar": 2014,
+            "Totaal": 4198,
+            "Positief": 1039,
+            "Negatief": 917,
+            "Neutraal": 2242
+        },
+        {
+            "Jaar": 2015,
+            "Totaal": 3858,
+            "Positief": 1353,
+            "Negatief": 815,
+            "Neutraal": 1690
+        },
+        {
+            "Jaar": 2016,
+            "Totaal": 3723,
+            "Positief": 1418,
+            "Negatief": 796,
+            "Neutraal": 1509
+        },
+        {
+            "Jaar": 2017,
+            "Totaal": 3955,
+            "Positief": 1367,
+            "Negatief": 905,
+            "Neutraal": 1683
+        },
+        {
+            "Jaar": 2018,
+            "Totaal": 3942,
+            "Positief": 1464,
+            "Negatief": 787,
+            "Neutraal": 1691
+        },
+        {
+            "Jaar": 2019,
+            "Totaal": 3803,
+            "Positief": 1480,
+            "Negatief": 723,
+            "Neutraal": 1600
+        },
+        {
+            "Jaar": 2020,
+            "Totaal": 2896,
+            "Positief": 1083,
+            "Negatief": 594,
+            "Neutraal": 1219
+        },
+        {
+            "Jaar": 2021,
+            "Totaal": 3586,
+            "Positief": 1329,
+            "Negatief": 779,
+            "Neutraal": 1478
+        },
+        {
+            "Jaar": 2022,
+            "Totaal": 4332,
+            "Positief": 1290,
+            "Negatief": 1243,
+            "Neutraal": 1799
+        }
+    ]
+}

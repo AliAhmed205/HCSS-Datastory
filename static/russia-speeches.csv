@@ -1,0 +1,17 @@
+﻿Speaker,Adressee,Most Likely Sentiment,Total Mentions,Avg Positive Probability,Avg Neutral Probability,Avg Negative Probability,Number of Positive Mentions,Number of Neutral Mentions,Number of Negative Mentions
+Russia,Italy,negative,1,0.0,0.0,1.0,0,0,1
+Russia,Turkey,positive,1,1.0,0.0,0.0,1,0,0
+Russia,Saudi Arabia,negative,1,0.0,0.0,1.0,0,0,1
+Russia,South Africa,neutral,1,0.0,1.0,0.0,0,1,0
+Russia,France,neutral,1,0.0,1.0,0.0,0,1,0
+Russia,Brazil,neutral,1,0.0,1.0,0.0,0,1,0
+Russia,South Korea,neutral,1,0.0,1.0,0.0,0,1,0
+Russia,Australia,neutral,1,0.0,1.0,0.0,0,1,0
+Russia,Serbia,negative,2,0.0,0.0,1.0,0,0,2
+Russia,Belgium,negative,2,0.0,0.0,1.0,0,0,2
+Russia,India,neutral,2,0.0,1.0,0.0,0,2,0
+Russia,Japan,negative,2,0.0,0.0,1.0,0,0,2
+Russia,Germany,neutral,2,0.0,1.0,0.0,0,2,0
+Russia,United Kingdom,neutral,2,0.0,1.0,0.0,0,2,0
+Russia,China,neutral,3,0.0,1.0,0.0,0,3,0
+Russia,United States,neutral,16,0.0,1.0,0.0,0,16,0

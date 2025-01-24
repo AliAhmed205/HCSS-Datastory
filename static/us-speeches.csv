@@ -1,0 +1,9 @@
+﻿Speaker,Adressee,Most Likely Sentiment,Total Mentions,Avg Positive Probability,Avg Neutral Probability,Avg Negative Probability,Number of Positive Mentions,Number of Neutral Mentions,Number of Negative Mentions
+United States,Sudan,neutral,1,0.03,0.57,0.4,0,1,0
+United States,South Korea,neutral,1,0.03,0.57,0.4,0,1,0
+United States,Jordan,positive,1,0.66,0.33,0.01,1,0,0
+United States,Saudi Arabia,neutral,1,0.07,0.78,0.15,0,1,0
+United States,United Arab Emirates,positive,1,0.73,0.27,0.0,1,0,0
+United States,"Congo, the Democratic Republic of the",positive,1,0.67,0.32,0.01,1,0,0
+United States,Zambia,positive,1,0.67,0.32,0.01,1,0,0
+United States,Russia,	negative,	6,0.02,0.24,0.74,0,0,6

@@ -1,0 +1,11 @@
+﻿,Speaker,Adressee,Most Likely Sentiment,Total Mentions,Avg Positive Probability,Avg Neutral Probability,Avg Negative Probability,Number of Positive Mentions,Number of Neutral Mentions,Number of Negative Mentions
+0,Tajikistan,Netherlands,neutral,1,0.06,0.93,0.01,0,1,0
+1,Netherlands,France,neutral,1,0.04,0.52,0.44,0,1,0
+2,Netherlands,South Africa,positive,1,0.66,0.33,0.01,1,0,0
+3,Netherlands,Egypt,neutral,1,0.09,0.77,0.14,0,1,0
+4,Netherlands,Morocco,neutral,1,0.11,0.86,0.03,0,1,0
+5,Netherlands,Namibia,neutral,1,0.07,0.9,0.03,0,1,0
+6,Netherlands,Russia,negative,7,0.06,0.31,0.63,0,2,5
+7,Netherlands,Ukraine,neutral,7,0.07,0.54,0.39,0,4,3
+8,Belgium,Netherlands,neutral,1,0.12,0.87,0.01,0,1,0
+9,Barbados,Netherlands,neutral,1,0.07,0.92,0.01,0,1,0

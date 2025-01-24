@@ -1,0 +1,141 @@
+Speaker,Adressee,Most Likely Sentiment,Total Mentions,Avg Positive Probability,Avg Neutral Probability,Avg Negative Probability,Number of Positive Mentions,Number of Neutral Mentions,Number of Negative Mentions
+Albania,Ukraine,negative,3,0.22,0.15,0.62,1,0,2
+Algeria,Ukraine,negative,1,0.01,0.28,0.71,0,0,1
+Andorra,Ukraine,negative,2,0.01,0.39,0.6,0,1,1
+Antigua and Barbuda,Ukraine,negative,2,0.01,0.14,0.85,0,0,2
+Argentina,Ukraine,neutral,1,0.15,0.8,0.05,0,1,0
+Australia,Ukraine,negative,5,0.01,0.1,0.89,0,0,5
+Austria,Ukraine,negative,5,0.26,0.37,0.38,1,2,2
+Bahamas,Ukraine,positive,1,0.9,0.09,0,1,0,0
+Bangladesh,Ukraine,negative,2,0.04,0.4,0.56,0,1,1
+Barbados,Ukraine,negative,2,0.01,0.25,0.74,0,0,2
+Belarus,Ukraine,negative,14,0.19,0.44,0.37,4,4,6
+Belgium,Ukraine,negative,9,0.2,0.4,0.41,2,3,4
+Belize,Ukraine,negative,1,0.01,0.14,0.85,0,0,1
+Benin,Ukraine,negative,2,0.18,0.43,0.38,0,1,1
+Bolivia,Ukraine,negative,2,0.17,0.44,0.39,0,1,1
+Bosnia and Herzegovina,Ukraine,negative,8,0.12,0.48,0.4,0,4,4
+Botswana,Ukraine,positive,5,0.47,0.49,0.04,3,2,0
+Brazil,Ukraine,neutral,4,0.18,0.53,0.29,1,2,1
+Bulgaria,Ukraine,negative,4,0.23,0.11,0.66,1,0,3
+Burkina Faso,Ukraine,neutral,1,0.02,0.88,0.1,0,1,0
+Burundi,Ukraine,neutral,1,0.01,0.57,0.41,0,1,0
+Cambodia,Ukraine,negative,1,0.01,0.11,0.89,0,0,1
+Cameroon,Ukraine,neutral,1,0.29,0.69,0.02,0,1,0
+Canada,Ukraine,negative,7,0.02,0.28,0.7,0,1,6
+Chad,Ukraine,negative,1,0.01,0.33,0.66,0,0,1
+Chile,Ukraine,negative,2,0.13,0.4,0.47,0,1,1
+China,Ukraine,neutral,1,0.37,0.6,0.04,0,1,0
+Colombia,Ukraine,negative,2,0.14,0.44,0.42,0,1,1
+Comoros,Ukraine,negative,2,0.04,0.32,0.64,0,1,1
+Congo,Ukraine,negative,2,0.02,0.42,0.56,0,1,1
+Congo the Democratic Republic of the,Ukraine,negative,1,0.01,0.21,0.78,0,0,1
+Costa Rica,Ukraine,negative,2,0.01,0.19,0.8,0,0,2
+Cote d'Ivoire,Ukraine,negative,7,0.21,0.42,0.36,1,3,3
+Croatia,Ukraine,neutral,7,0.17,0.49,0.34,0,4,3
+Cuba,Ukraine,neutral,1,0.48,0.49,0.04,0,1,0
+Cyprus,Ukraine,negative,1,0.02,0.28,0.69,0,0,1
+Czech Republic,Ukraine,negative,17,0.19,0.36,0.45,4,4,9
+Denmark,Ukraine,negative,6,0.09,0.43,0.48,0,3,3
+Djibouti,Ukraine,negative,3,0.04,0.41,0.55,0,1,2
+Dominica,Ukraine,negative,10,0.18,0.41,0.41,2,3,5
+Dominican Republic,Ukraine,negative,2,0.02,0.27,0.71,0,0,2
+Ecuador,Ukraine,negative,4,0.05,0.42,0.53,0,2,2
+Equatorial Guinea,Ukraine,negative,1,0.01,0.23,0.76,0,0,1
+Eritrea,Ukraine,negative,1,0.01,0.11,0.88,0,0,1
+Estonia,Ukraine,negative,23,0.22,0.39,0.39,3,10,10
+European Union,Ukraine,negative,8,0.02,0.33,0.65,0,2,6
+Fiji,Ukraine,negative,1,0,0.09,0.91,0,0,1
+Finland,Ukraine,negative,6,0.15,0.21,0.64,1,1,4
+France,Ukraine,neutral,7,0.14,0.6,0.26,1,4,2
+Gabon,Ukraine,negative,1,0.01,0.22,0.78,0,0,1
+Gambia,Ukraine,negative,2,0.06,0.37,0.57,0,1,1
+Georgia,Ukraine,neutral,7,0.26,0.57,0.17,2,4,1
+Germany,Ukraine,neutral,9,0.27,0.43,0.31,2,4,3
+Ghana,Ukraine,negative,3,0.01,0.16,0.83,0,0,3
+Greece,Ukraine,negative,8,0.14,0.33,0.53,1,2,5
+Grenada,Ukraine,negative,2,0.04,0.5,0.46,0,1,1
+Guatemala,Ukraine,negative,4,0.07,0.53,0.39,0,2,2
+Guinea-Bissau,Ukraine,negative,1,0.01,0.2,0.8,0,0,1
+Guyana,Ukraine,negative,3,0.01,0.24,0.75,0,0,3
+Hungary,Ukraine,negative,4,0.14,0.46,0.4,0,2,2
+Iceland,Ukraine,neutral,4,0.15,0.57,0.28,0,3,1
+India,Ukraine,negative,4,0.02,0.39,0.59,0,1,3
+Indonesia,Ukraine,positive,1,0.64,0.35,0.01,1,0,0
+Ireland,Ukraine,negative,5,0.01,0.21,0.78,0,0,5
+Italy,Ukraine,negative,15,0.21,0.4,0.38,3,5,7
+Jamaica,Ukraine,negative,2,0.01,0.24,0.75,0,0,2
+Japan,Ukraine,negative,4,0.01,0.19,0.81,0,0,4
+Jordan,Ukraine,negative,1,0.01,0.13,0.87,0,0,1
+Kenya,Ukraine,negative,1,0.01,0.15,0.84,0,0,1
+Kiribati,Ukraine,negative,2,0.02,0.32,0.66,0,1,1
+Kuwait,Ukraine,neutral,2,0.24,0.73,0.03,0,2,0
+Latvia,Ukraine,negative,12,0.1,0.37,0.53,1,4,7
+Lesotho,Ukraine,negative,1,0.01,0.09,0.91,0,0,1
+Liberia,Ukraine,negative,1,0.01,0.17,0.82,0,0,1
+Liechtenstein,Ukraine,negative,10,0.16,0.34,0.5,2,3,5
+Lithuania,Ukraine,negative,13,0.18,0.37,0.46,2,5,6
+Luxembourg,Ukraine,negative,13,0.26,0.41,0.33,4,4,5
+Madagascar,Ukraine,negative,1,0.01,0.11,0.89,0,0,1
+Malaysia,Ukraine,neutral,4,0.21,0.5,0.29,1,2,1
+Maldives,Ukraine,neutral,1,0.07,0.57,0.36,0,1,0
+Malta,Ukraine,negative,6,0.03,0.36,0.62,0,2,4
+Marshall Islands,Ukraine,neutral,3,0.19,0.41,0.4,1,1,1
+Mauritania,Ukraine,negative,3,0.01,0.26,0.73,0,0,3
+Mexico,Ukraine,negative,5,0.15,0.33,0.52,0,2,3
+Micronesia,Ukraine,negative,4,0.16,0.39,0.45,0,2,2
+Moldova,Ukraine,negative,9,0.26,0.34,0.4,2,3,4
+Monaco,Ukraine,negative,1,0.01,0.1,0.89,0,0,1
+Montenegro,Ukraine,negative,4,0.17,0.34,0.49,1,1,2
+Namibia,Ukraine,negative,2,0.17,0.45,0.39,0,1,1
+Nauru,Ukraine,negative,1,0.04,0.43,0.54,0,0,1
+Nepal,Ukraine,negative,1,0.01,0.1,0.89,0,0,1
+Netherlands,Ukraine,negative,14,0.34,0.35,0.3,4,5,5
+New Zealand,Ukraine,negative,2,0.02,0.27,0.71,0,0,2
+Nigeria,Ukraine,negative,3,0.03,0.36,0.61,0,1,2
+North Macedonia,Ukraine,negative,11,0.09,0.44,0.47,0,5,6
+Norway,Ukraine,negative,6,0.12,0.28,0.6,1,1,4
+Pakistan,Ukraine,negative,1,0.01,0.32,0.67,0,0,1
+Palau,Ukraine,neutral,3,0.25,0.34,0.41,1,1,1
+Papua New Guinea,Ukraine,positive,1,0.57,0.42,0.02,1,0,0
+Paraguay,Ukraine,negative,1,0.01,0.32,0.67,0,0,1
+Peru,Ukraine,neutral,3,0.05,0.62,0.33,0,2,1
+Philippines,Ukraine,negative,1,0.02,0.31,0.67,0,0,1
+Poland,Ukraine,negative,36,0.11,0.38,0.51,3,13,20
+Portugal,Ukraine,neutral,4,0.3,0.39,0.31,1,2,1
+Qatar,Ukraine,negative,3,0.02,0.45,0.53,0,1,2
+Romania,Ukraine,neutral,6,0.36,0.34,0.3,2,2,2
+Russia,Ukraine,negative,8,0.02,0.39,0.59,0,2,6
+Saint Lucia,Ukraine,negative,5,0.05,0.36,0.59,0,2,3
+Saint Vincent and the Grenadines,Ukraine,negative,3,0.01,0.15,0.85,0,0,3
+Samoa,Ukraine,negative,1,0.01,0.08,0.91,0,0,1
+San Marino,Ukraine,negative,8,0.1,0.34,0.56,1,2,5
+Saudi Arabia,Ukraine,neutral,1,0.36,0.58,0.06,0,1,0
+Senegal,Ukraine,negative,2,0.03,0.45,0.52,0,1,1
+Serbia,Ukraine,neutral,3,0.13,0.6,0.27,0,2,1
+Seychelles,Ukraine,negative,4,0.04,0.47,0.49,0,2,2
+Singapore,Ukraine,negative,3,0.1,0.31,0.59,0,1,2
+Slovakia,Ukraine,negative,12,0.13,0.42,0.46,1,4,7
+Slovenia,Ukraine,negative,3,0.01,0.24,0.75,0,0,3
+Solomon Islands,Ukraine,neutral,1,0.05,0.9,0.06,0,1,0
+South Africa,Ukraine,negative,1,0.01,0.18,0.82,0,0,1
+South Sudan,Ukraine,negative,2,0.04,0.46,0.5,0,1,1
+Spain,Ukraine,negative,8,0.24,0.29,0.47,2,2,4
+Sweden,Ukraine,negative,5,0.03,0.4,0.57,0,2,3
+Switzerland,Ukraine,neutral,4,0.11,0.66,0.23,0,3,1
+Syria,Ukraine,neutral,1,0.14,0.82,0.04,0,1,0
+Thailand,Ukraine,neutral,5,0.32,0.64,0.04,1,4,0
+Timor-Leste,Ukraine,negative,9,0.07,0.46,0.47,0,3,6
+Tonga,Ukraine,neutral,1,0.35,0.65,0.01,0,1,0
+Trinidad and Tobago,Ukraine,negative,2,0.01,0.17,0.82,0,0,2
+Tunisia,Ukraine,neutral,1,0.04,0.65,0.31,0,1,0
+Turkey,Ukraine,neutral,3,0.08,0.58,0.34,0,2,1
+Uganda,Ukraine,negative,1,0,0.07,0.93,0,0,1
+United Kingdom,Ukraine,positive,7,0.31,0.42,0.27,3,2,2
+United States,Ukraine,negative,11,0.27,0.4,0.33,3,4,4
+Uruguay,Ukraine,negative,3,0.02,0.35,0.63,0,1,2
+Vanuatu,Ukraine,negative,2,0.01,0.23,0.76,0,0,2
+Vatican City,Ukraine,negative,2,0,0.11,0.88,0,0,2
+Venezuela,Ukraine,neutral,2,0.33,0.24,0.44,1,0,1
+Viet Nam,Ukraine,neutral,1,0.26,0.72,0.02,0,1,0
+Zambia,Ukraine,negative,4,0.01,0.35,0.64,0,1,3

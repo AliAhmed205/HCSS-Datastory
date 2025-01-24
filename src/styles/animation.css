@@ -1,0 +1,58 @@
+@keyframes float {
+  from {
+    transform: translate(3rem, 0);
+  }
+  to  {
+    transform: translate(0, 3rem);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-2rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fadeIn-B {
+  from {
+    opacity: 0;
+
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn-UN {
+  to {
+    opacity: .2;
+  }
+}
+
+@keyframes fadeIn-400 {
+  to {
+    opacity: .5;
+  }
+}
+
+@keyframes sizeIncrease {
+  from {
+    scale: .8;
+  }
+  to {
+    scale: 1;
+  }
+}
+
+@keyframes bounce {
+  from {
+    translate: 0 0.2rem;
+  }
+  to {
+    translate: 0 -.2rem;
+  }
+}

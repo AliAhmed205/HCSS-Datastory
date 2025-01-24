@@ -1,0 +1,102 @@
+Speaker,Adressee,Most Likely Sentiment,Total Mentions,Avg Positive Probability,Avg Neutral Probability,Avg Negative Probability,Number of Positive Mentions,Number of Neutral Mentions,Number of Negative Mentions
+Albania,Russia,negative,3,0.01,0.1,0.9,0,0,3
+Andorra,Russia,neutral,1,0.01,0.56,0.43,0,1,0
+Antigua and Barbuda,Russia,neutral,1,0.21,0.69,0.1,0,1,0
+Argentina,Russia,neutral,1,0.15,0.8,0.05,0,1,0
+Australia,Russia,negative,6,0.13,0.25,0.62,1,1,4
+Austria,Russia,negative,7,0.01,0.22,0.78,0,0,7
+Azerbaijan,Russia,neutral,1,0.41,0.58,0.01,0,1,0
+Bahamas,Russia,positive,1,0.9,0.09,0,1,0,0
+Bangladesh,Russia,negative,2,0.04,0.4,0.56,0,1,1
+Barbados,Russia,negative,1,0.01,0.26,0.73,0,0,1
+Belarus,Russia,neutral,6,0.17,0.73,0.09,0,6,0
+Belgium,Russia,negative,4,0.01,0.19,0.8,0,0,4
+Belize,Russia,negative,1,0.01,0.14,0.85,0,0,1
+Bolivia,Russia,negative,2,0.17,0.44,0.39,0,1,1
+Bosnia and Herzegovina,Russia,negative,1,0.01,0.18,0.81,0,0,1
+Botswana,Russia,positive,1,0.79,0.21,0.01,1,0,0
+Bulgaria,Russia,negative,2,0.02,0.35,0.63,0,0,2
+Cameroon,Russia,neutral,1,0.29,0.69,0.02,0,1,0
+Canada,Russia,negative,5,0.01,0.21,0.78,0,0,5
+Chile,Russia,negative,2,0.13,0.4,0.47,0,1,1
+Colombia,Russia,neutral,1,0.28,0.67,0.05,0,1,0
+Comoros,Russia,neutral,1,0.06,0.52,0.42,0,1,0
+Congo,Russia,neutral,1,0.34,0.57,0.09,0,1,0
+Congo the Democratic Republic of the,Russia,negative,1,0.01,0.21,0.78,0,0,1
+Costa Rica,Russia,negative,2,0.01,0.19,0.8,0,0,2
+Cote d'Ivoire,Russia,negative,1,0.01,0.16,0.83,0,0,1
+Croatia,Russia,negative,1,0.01,0.13,0.86,0,0,1
+Cuba,Russia,neutral,1,0.02,0.55,0.43,0,1,0
+Cyprus,Russia,negative,1,0.02,0.28,0.69,0,0,1
+Czech Republic,Russia,negative,23,0.08,0.3,0.62,2,5,16
+Denmark,Russia,negative,4,0.02,0.33,0.65,0,1,3
+Djibouti,Russia,neutral,1,0.1,0.85,0.05,0,1,0
+Dominica,Russia,negative,4,0.22,0.4,0.38,1,1,2
+Dominican Republic,Russia,negative,2,0.02,0.27,0.71,0,0,2
+Ecuador,Russia,negative,1,0.01,0.11,0.88,0,0,1
+Equatorial Guinea,Russia,negative,1,0.01,0.23,0.76,0,0,1
+Estonia,Russia,negative,27,0.05,0.3,0.65,1,6,20
+European Union,Russia,negative,10,0.03,0.37,0.6,0,2,8
+Fiji,Russia,negative,1,0,0.09,0.91,0,0,1
+Finland,Russia,negative,4,0.04,0.29,0.66,0,1,3
+France,Russia,neutral,16,0.08,0.48,0.45,0,9,7
+Gambia,Russia,negative,2,0.06,0.37,0.57,0,1,1
+Georgia,Russia,neutral,5,0.1,0.46,0.44,0,3,2
+Germany,Russia,negative,8,0.06,0.38,0.56,0,3,5
+Ghana,Russia,negative,2,0.01,0.14,0.86,0,0,2
+Greece,Russia,negative,5,0.17,0.28,0.55,1,0,4
+Grenada,Russia,negative,2,0.04,0.5,0.46,0,1,1
+Guyana,Russia,negative,2,0.02,0.42,0.56,0,0,2
+Hungary,Russia,negative,3,0.07,0.41,0.53,0,1,2
+Iceland,Russia,negative,7,0.01,0.12,0.88,0,0,7
+Ireland,Russia,negative,8,0.01,0.26,0.73,0,0,8
+Israel,Russia,neutral,1,0.03,0.9,0.06,0,1,0
+Italy,Russia,negative,11,0.1,0.41,0.49,0,4,7
+Jamaica,Russia,negative,1,0.01,0.16,0.84,0,0,1
+Japan,Russia,negative,5,0.02,0.31,0.67,0,2,3
+Kenya,Russia,negative,1,0.01,0.15,0.84,0,0,1
+Latvia,Russia,negative,15,0.01,0.33,0.66,0,3,12
+Lithuania,Russia,negative,7,0.01,0.36,0.62,0,2,5
+Luxembourg,Russia,negative,7,0.16,0.46,0.39,1,2,4
+Mali,Russia,positive,1,0.93,0.06,0,1,0,0
+Marshall Islands,Russia,neutral,2,0.04,0.56,0.4,0,2,0
+Mexico,Russia,neutral,1,0.37,0.61,0.02,0,1,0
+Micronesia Federated States of,Russia,neutral,1,0.13,0.8,0.07,0,1,0
+Moldova,Russia,negative,5,0.06,0.26,0.68,0,1,4
+Montenegro,Russia,neutral,2,0.06,0.79,0.15,0,2,0
+Namibia,Russia,negative,2,0.17,0.45,0.39,0,1,1
+Netherlands,Russia,negative,10,0.03,0.41,0.56,0,3,7
+New Zealand,Russia,negative,4,0.01,0.25,0.73,0,0,4
+Nicaragua,Russia,positive,1,0.84,0.15,0.01,1,0,0
+North Macedonia,Russia,negative,4,0.01,0.31,0.68,0,1,3
+Norway,Russia,negative,4,0.01,0.17,0.82,0,0,4
+Palau,Russia,neutral,1,0.03,0.69,0.27,0,1,0
+Peru,Russia,negative,1,0.01,0.19,0.8,0,0,1
+Poland,Russia,negative,23,0.02,0.31,0.67,0,6,17
+Portugal,Russia,neutral,4,0.06,0.56,0.38,0,3,1
+Qatar,Russia,negative,2,0.03,0.49,0.48,0,1,1
+Romania,Russia,negative,1,0,0.09,0.91,0,0,1
+Saint Lucia,Russia,negative,1,0.01,0.15,0.84,0,0,1
+Saint Vincent and the Grenadines,Russia,negative,2,0.01,0.19,0.8,0,0,2
+San Marino,Russia,negative,2,0.02,0.4,0.58,0,1,1
+Saudi Arabia,Russia,neutral,1,0.36,0.58,0.06,0,1,0
+Seychelles,Russia,neutral,1,0.07,0.75,0.18,0,1,0
+Singapore,Russia,negative,2,0.14,0.39,0.47,0,1,1
+Slovakia,Russia,negative,10,0.11,0.42,0.47,1,4,5
+Slovenia,Russia,negative,1,0.01,0.41,0.58,0,0,1
+South Africa,Russia,negative,1,0.01,0.18,0.82,0,0,1
+South Sudan,Russia,negative,2,0.04,0.46,0.5,0,1,1
+Spain,Russia,negative,2,0.01,0.12,0.87,0,0,2
+Sweden,Russia,negative,8,0.02,0.29,0.69,0,2,6
+Switzerland,Russia,negative,2,0.06,0.49,0.44,0,1,1
+Syria,Russia,neutral,4,0.24,0.67,0.1,1,3,0
+Timor-Leste,Russia,negative,4,0.06,0.46,0.48,0,1,3
+Trinidad and Tobago,Russia,neutral,1,0.12,0.78,0.1,0,1,0
+Turkey,Russia,negative,2,0.03,0.49,0.48,0,1,1
+Uganda,Russia,negative,1,0,0.07,0.93,0,0,1
+Ukraine,Russia,negative,25,0.02,0.41,0.57,0,8,17
+United Kingdom,Russia,neutral,2,0.07,0.55,0.38,0,2,0
+United States,Russia,negative,16,0.09,0.39,0.52,1,7,8
+Uruguay,Russia,negative,2,0.03,0.41,0.56,0,1,1
+Vanuatu,Russia,negative,1,0.01,0.19,0.8,0,0,1
+Venezuela,Russia,negative,5,0.16,0.38,0.46,1,1,3
