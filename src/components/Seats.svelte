@@ -43,21 +43,21 @@
 
   onMount(() => {
 
-    d3.csv("/sentiments-russia-2023.csv").then((data) => {
+    d3.csv("./sentiments-russia-2023.csv").then((data) => {
       csvDataRussia2023 = data;
     });
-    d3.csv("/sentiments-russia-2022.csv").then((data) => {
+    d3.csv("./sentiments-russia-2022.csv").then((data) => {
       csvDataRussia2022 = data;
     });
 
-    d3.csv("/sentiments-ukraine-2023.csv").then((data) => {
+    d3.csv("./sentiments-ukraine-2023.csv").then((data) => {
       csvDataUkraine2023 = data;
     });
-    d3.csv("/sentiments-ukraine-2022.csv").then((data) => {
+    d3.csv("./sentiments-ukraine-2022.csv").then((data) => {
       csvDataUkraine2022 = data;
     });
 
-    d3.json("/speeches_2023_analysed.json").then((data) => {
+    d3.json("./speeches_2023_analysed.json").then((data) => {
       const speeches = data.speeches;
 
       speeches.forEach((speech) => {
@@ -86,7 +86,7 @@
       });
     });
 
-    d3.json("/speeches_2022_analysed.json").then((data) => {
+    d3.json("./speeches_2022_analysed.json").then((data) => {
       const speeches = data.speeches;
 
       speeches.forEach((speech) => {
@@ -497,11 +497,20 @@ const handleSeatClick = (index) => {
   
       </article>
       {#each $countryComment as comment}
-      <p class={comment.sentiment === 'negative' ? 'negative-comment' : 
+      <div class={comment.sentiment === 'negative' ? 'negative-comment' : 
                  comment.sentiment === 'positive' ? 'positive-comment' : 
                  comment.sentiment === 'neutral' ? 'neutral-comment' : "neutral-comment"}>
-        {comment.sentence}
-      </p>
+         <div class="breadcrumb-sentiment">
+          {#if comment.sentiment === "positive"}
+            <span class="sentiment-positive">Positive</span>
+          {:else if comment.sentiment === "neutral"}
+            <span class="sentiment-neutral">Neutral</span>
+          {:else if comment.sentiment === "negative"}
+            <span class="sentiment-negative">Negative</span>
+          {/if}
+        </div>
+       <p>{comment.sentence}</p>
+    </div>
 
     {/each}    
     </article>
