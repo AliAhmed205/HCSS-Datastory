@@ -808,6 +808,11 @@ h3 {
 }
 
 @media (max-width: 786px) {
+
+  html {
+    overflow-x: hidden;
+  }
+
   .country-menu {
     position: relative;
     flex-direction: row;

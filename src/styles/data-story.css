@@ -85,7 +85,63 @@
       translate: 0 0;
     }
 
-    & .world {
+    & .world-map {
+      width: 100%;
+      max-width: 50%;
+      height: auto;
+      animation: fadeIn 1s 1s backwards;
+      position: sticky;
+      top: 3rem;
+      opacity: 1;
+
+      z-index: -2;
+      transform: scale(1) translate(0, 0);
+      transform-origin: center;
+      transition: 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    }
+
+    & .world-map.increase {
+      transform: scale(5) translate(-3rem, 4rem);
+      top: 30rem;
+
+
+      & path:not(.country-643):not(.country-804) {
+        opacity: .1;
+      }
+
+      & .country-643 {
+        fill: #ffff;
+      }
+
+      & .country-804 {
+        fill: #DCAD4F;
+        transition: 1s;
+      }
+    }
+
+    & .world-map.two.increase {
+      transform: scale(8) translate(-3rem, 5.5rem);
+
+      & .country-804 {
+        fill: lightcoral;
+      }
+    }
+    & .world-map.three.two.increase {
+      transform: scale(12) translate(-4.2rem, 6rem);
+
+      & .country-804, .country-643 {
+        fill: var(--world-color);
+        opacity: .1;
+      }
+    }
+
+    & .world-map.four.three.two.increase, .world-map.five.four.three.two.increase {
+      transform: scale(1.5) translate(0, 0);
+      top: 14rem;
+    }
+
+
+    /* & .world {
       width: 50%;
       min-width: 400px;
       animation: fadeIn 1s 1s backwards;
@@ -97,14 +153,6 @@
       translate: 0 0 ;
       transform-origin: center;
       transition: 1s cubic-bezier(0.165, 0.84, 0.44, 1);
-
-     & #russia, #ukraine {
-        /* transition: .5s; */
-      }
-
-      & path {
-        /* transition: .5s; */
-      }
     }
 
     & .world.increase {
@@ -152,7 +200,7 @@
       & path {
         opacity: .5;
       }
-    }
+    } */
 
     & > h4 {
       opacity: 0;
@@ -185,6 +233,7 @@
       position: fixed;
       width: 100vw;
       height: 100vh;
+      margin: 0 auto;
       align-items: center;
       justify-content: center;
       display: flex;
@@ -884,12 +933,22 @@
         animation: none;
       }
 
-      & .world.increase, 
-      .world.two.increase,
-      .world.three.two.increase,
-      .world.four.three.two.increase {
-        translate: 0 9rem;
-        scale: 1;
+      & .world-map {
+        max-width: 85%;
+      }
+      
+      & > h3 {
+        width: auto;
+        left: auto;
+        padding: 0 1rem;
+      }
+
+      & .world-map.increase, 
+      .world-map.two.increase,
+      .world-map.three.two.increase,
+      .world-map.four.three.two.increase,
+      .world-map.five.four.three.two.increase {
+        transform: scale(1) translate(0, 0);
         opacity: 0;
         transition: .5s;
 
@@ -902,7 +961,7 @@
         }
       }
 
-      & .world.fade-out {
+      & .world-map.fade-out {
         opacity: 0;
         transition: .5s;
       }
@@ -954,7 +1013,7 @@
         animation: none;
 
         &:last-of-type {
-          width: 30rem;
+          width: 25rem;
         }
       }
 
@@ -970,17 +1029,20 @@
       justify-content: unset;
 
       & .mentions {
-        font-size: 11rem;
+        font-size: 9rem;
       }
 
       &>h3 {
         width: 350px;
-        margin-top: 14rem;
+        margin-top: 9rem;
         margin-bottom: 3rem;
       }
 
       & img {
         animation: none;
+        width: 24rem;
+        left: 0;
+        right: 0;
       }
 
       & ul {
@@ -1030,14 +1092,16 @@
 
         &:nth-of-type(1){
           top: 0rem;
-          left: 19rem;
+          left: 50%;
+          right: 50%;
         }
 
         &:nth-of-type(2){
           left: 2rem;
         }
         &:nth-of-type(3){
-          left: 19rem;
+          left: 50%;
+          right: 50%;
         }
         &:nth-of-type(4){
           left: 2rem;
