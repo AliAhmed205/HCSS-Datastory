@@ -341,15 +341,15 @@ const handleSeatClick = (index) => {
   if (clickedCountry?.name === $selectedCountry) {
     selectedAdressee = null;
     selectedCountry.set(""); // Clear the selection
-    selectedGroup.set("all");
-    group = "all";
+    selectedGroup.set($selectedGroup);
+    // group = "all";
     chosenSeat = null; // Reset selected seat
     return;
   }
 
   selectedCountry.set(clickedCountry?.name || "");
-  selectedGroup.set("all");
-  group = "all";
+  selectedGroup.set($selectedGroup);
+  // group = "all";
   chosenSeat = index; // Update selected seat dynamically
 
   // Set comment for selected country

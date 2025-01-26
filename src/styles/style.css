@@ -20,7 +20,7 @@ body {
   --hcss-darkblue: #0b1a30;
   --plain-text-hcss: "Roboto Slab";
   --negative-sentiment-color: #eb8787;
-  --neutral-sentiment-color: lightskyblue;
+  --neutral-sentiment-color: rgb(187, 220, 240);
   --positive-sentiment-color: #bcdb87;
   --chosen-chair: gold;
   --world-color: #82A1BD; 
@@ -579,7 +579,7 @@ h3 {
       font-weight: 800;
       font-family: var(--plain-text-hcss);
       text-transform: uppercase;
-      font-size: .8rem;
+      font-size: .7rem;
     }
   }
 
@@ -619,6 +619,8 @@ h3 {
     color: white;
     font-size: 2rem;
     font-size: 1em;
+    display: flex;
+    justify-content: space-between;
   }
 
   & div {
@@ -674,7 +676,7 @@ h3 {
 }
 
 .legend.hidden {
-  right: -20rem;
+  right: -10rem;
 }
 
 
