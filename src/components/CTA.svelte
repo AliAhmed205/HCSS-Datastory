@@ -667,6 +667,6 @@
       <path class="chairs" d="M544.45,511.34c-6.8,5.81-10.81,14.74-16.7,21.07-3.3,3.55-8.01,6.42-11.56,9.76,2.05-6.6,3.37-13.59,7.95-19.02,4.92-5.83,13.22-9.39,20.31-11.81Z"/>
     </g>
   </svg>
-  <h2>Step into the <span>United Nations</span> room and learn what other countries are saying about <span>Ukraine and Russia</span> during 2022 and 2023</h2>
+  <h2>Step into the <span>United Nations</span> room and discover what other countries are saying about <span>Ukraine and Russia</span> during 2022 and 2023</h2>
   <button on:click={scrollToSphere}><i class="fa-solid fa-globe"></i> Enter the sphere</button>
 </section>

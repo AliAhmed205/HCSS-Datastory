@@ -188,7 +188,7 @@
           handleConflictChange();
         }}
       />
-      <img src="/Flag_of_Russia.svg.webp" alt="Russia">
+      <img src="./Flag_of_Russia.svg.webp" alt="Russia">
     </label>
     <label>
       <input
@@ -201,7 +201,7 @@
           handleConflictChange();
         }}
       />
-      <img src="/Flag_of_Ukraine.svg.png" alt="Ukraine">
+      <img src="./Flag_of_Ukraine.svg.png" alt="Ukraine">
     </label>
   </section>
 </div>

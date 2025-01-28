@@ -175,40 +175,36 @@
 
 <section class="data-story">
   <h2>
-    In 2023, the world experienced the highest number of state-based conflicts
-    since 1946, marking a significant rise in global fatalities—up 30% since
-    2021.
-  </h2>
-  <h3>
-    Among these, <span> Russia's invasion of Ukraine</span> on February 24, 2022,
-    stands out as one of the most significant geopolitical events in recent history.
-  </h3>
-  <h3>
-    This conflict has been the <span>bloodiest</span> event on the European continent
-    since the Second World War.
-  </h3>
-  <div class="conflict">
-    <h3>An ongoing conflict since February 24th, 2022</h3>
+    In 2023, the world witnessed the highest number of state-based conflicts since 1946, marking a significant increase in global fatalities—rising by 30% since 2021.
+</h2>
+<h3>
+    Among these, <span>Russia's invasion of Ukraine</span> on 24th February 2022 stands out as one of the most significant geopolitical events in recent history.
+</h3>
+<h3>
+    This conflict has been the <span>bloodiest</span> event on the European continent since the Second World War.
+</h3>
+<div class="conflict">
+    <h3>An ongoing conflict since the 24th of February 2022</h3>
     <h4>
-      {hours.toLocaleString()} Hours,
-      {#if minutes < 2}
-        {minutes} minute
-      {:else}
-        {minutes} minutes
+      {hours.toLocaleString()} Hours, 
+      {#if minutes < 2} 
+        {minutes} minute 
+      {:else} 
+        {minutes} minutes 
       {/if}
-      and
-      {#if seconds === 1}
-        {seconds} second
-      {:else}
-        {seconds} seconds
+      and 
+      {#if seconds === 1} 
+        {seconds} second 
+      {:else} 
+        {seconds} seconds 
       {/if}
     </h4>
     <h5>{daysSinceFeb24} Days</h5>
-  </div>
-  <h4>
-    How does this conflict shape the future of international relations and
-    global stability in the years to come?
-  </h4>
+</div>
+<h4>
+    How will this conflict shape the future of international relations and global stability in the years to come?
+</h4>
+
   <div id="world-map" class="world-map"></div>
   <svg
     xmlns:mapsvg="http://mapsvg.com"

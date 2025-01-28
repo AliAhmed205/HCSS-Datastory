@@ -7,25 +7,28 @@
 
   onMount(() => {
     // Selecteer specifiek de tweede sectie
-    const sectionElement = document.querySelector('.data-story.second-section');
-    const counterElement = document.getElementById('counter');
-    const imgContainer = document.querySelector('.UN-emblem');
+    const sectionElement = document.querySelector(".data-story.second-section");
+    const counterElement = document.getElementById("counter");
+    const imgContainer = document.querySelector(".UN-emblem");
 
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting && !isVisible) {
-          isVisible = true;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting && !isVisible) {
+            isVisible = true;
 
-          // Voeg de 'in-view' class toe aan het UN-embleem
-          imgContainer.classList.add('in-view');
+            // Voeg de 'in-view' class toe aan het UN-embleem
+            imgContainer.classList.add("in-view");
 
-          // Start de teller
-          startCounter();
-        }
-      });
-    }, {
-      threshold: .7 // Zorg dat 100% van de sectie zichtbaar moet zijn
-    });
+            // Start de teller
+            startCounter();
+          }
+        });
+      },
+      {
+        threshold: 0.7, // Zorg dat 100% van de sectie zichtbaar moet zijn
+      }
+    );
 
     observer.observe(sectionElement);
 
@@ -45,16 +48,21 @@
 </script>
 
 <section class="data-story second-section">
-  <img src="./visual-bottomright.png" aria-hidden="true" alt="visual-bottom right">
+  <img
+    src="./visual-bottomright.png"
+    aria-hidden="true"
+    alt="visual-bottom right"
+  />
   <h3>
     <span id="counter">0</span>
     <span class="label">countries</span>
   </h3>
   <p>
-    The war has polarized the international community, with sharp divisions at
-    <span>the United Nations</span> and a profound impact on global politics. The
-    main subject for the last two years at the general assembly have therefore been
-    about this conflict.
+    The war has polarised the international community, with sharp divisions at <span
+      >the United Nations</span
+    > and a profound impact on global politics. The main subject for the past two
+    years at the General Assembly has therefore been this conflict.
   </p>
-  <img class="UN-emblem" src="./UN_emblem_blue.svg" alt="UN_Emblem">
+
+  <img class="UN-emblem" src="./UN_emblem_blue.svg" alt="UN_Emblem" />
 </section>

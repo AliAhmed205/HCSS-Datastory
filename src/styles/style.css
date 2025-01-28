@@ -42,6 +42,21 @@ main {
   align-items: center;
 }
 
+#svg-HCSS-top {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  width: 2rem;
+  fill: white;
+  opacity: .5;
+  transition: .5s;
+
+  &:hover {
+    opacity: 1;
+    width: 2.5rem;
+  }
+}
+
 .meta-data {
   position: absolute;
   bottom: 1rem;
@@ -874,6 +889,7 @@ h3 {
   .comment-container {
     width: 95vw;
     gap: 1.5rem;
+    z-index: 100;
 
     & h2 {
       font-size: 1rem;

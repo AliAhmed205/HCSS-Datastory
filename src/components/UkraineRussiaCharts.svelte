@@ -33,10 +33,7 @@
       .range([0, width])
       .padding(0.2);
 
-    const yScale = d3
-      .scaleLinear()
-      .domain([0, maxMentions])
-      .range([height, 0]);
+    const yScale = d3.scaleLinear().domain([0, maxMentions]).range([height, 0]);
 
     svg
       .append("g")
@@ -71,9 +68,9 @@
 
     svg
       .append("text")
-      .attr("x", width / 2)
+      .attr("x", 0) // Zet de x-coördinaat op de linkerkant
       .attr("y", -10)
-      .attr("text-anchor", "middle")
+      .attr("text-anchor", "start") // Links uitlijnen
       .style("font-size", "1.2rem")
       .style("fill", "white")
       .text(title);
@@ -134,6 +131,21 @@
   });
 </script>
 
+<section class="data-story">
+  <h2>
+    Let us examine the references to Russia and Ukraine made during speeches
+    at the United Nations General Assembly in 2022 and 2023
+  </h2>
+  <article>
+    <div id="ukraineChart"></div>
+    <div id="russiaChart"></div>
+    <h3 class={titleVisible ? "visible" : ""}>
+      Mentions of Russia and Ukraine <span>decreased by 17.4%</span> in 2023 compared 
+      with 2022.
+    </h3>
+  </article>
+</section>
+
 <style>
   h3 {
     opacity: 0;
@@ -144,18 +156,3 @@
     opacity: 1;
   }
 </style>
-
-<section class="data-story">
-  <h2>
-    Let us examine the references to Russia and Ukraine made during the speeches
-    at the United Nations General Assembly in 2022 and 2023
-  </h2>
-  <article>
-    <div id="ukraineChart"></div>
-    <div id="russiaChart"></div>
-    <h3 class={titleVisible ? "visible" : ""}>
-      Mentions of Russia and Ukraine <span>decreased by 17.4%</span> in 2023
-      compared to 2022.
-    </h3>
-  </article>
-</section>
