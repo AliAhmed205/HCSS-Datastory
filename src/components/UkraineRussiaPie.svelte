@@ -138,7 +138,8 @@ onMount(() => {
    <article>
     <div class="text-container">
       <h3>Sentiment about Ukraine</h3>
-      <p>In 2023 there are more neutral sentiments about Ukraine.</p>
+      <p>In 2023, negative sentiments declined towards Ukraine. More countries adopted a neutral tone in their speeches, while positive speeches saw a modest increase.
+      </p>
     </div>
   <div id="pie-chart-ua-2022">
     <h3>2022</h3>
@@ -153,7 +154,7 @@ onMount(() => {
   <!-- Rusland Pie Charts -->
   <div class="text-container">
     <h3>Sentiment about Russia</h3>
-    <p>In 2023 there are more neutral sentiments about Ukraine.</p>
+    <p>In 2023, sentiments toward Russia shifted notably, with positive speeches nearly doubling, neutral speeches seeing a slight rise, and negative speeches declining.</p>
 </div>
   <div id="pie-chart-ru-2022">
     <h3>2022</h3>

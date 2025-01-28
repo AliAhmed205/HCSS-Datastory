@@ -516,6 +516,6 @@ const handleSeatClick = (index) => {
     </article>
     <h4 class="read-more">To learn and analyse more, visit our <span>GINA</span> tool for the full context and speech of <span>{$selectedCountry}</span> during <span>{$selectedYear}</span>
     </h4>
-    <a class="GINA" href="https://ginadiplomatic.app.hcss.nl/SpeechesStateLevel">Learn with GINA</a>
+    <a class="GINA" href="https://ginadiplomatic.app.hcss.nl/SpeechesStateLevel">Explore GINA Diplomatic</a>
   {/if}
 </section>
